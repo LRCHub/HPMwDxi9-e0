@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Kisetsu Wa Tsugitsugi Shindeiku",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-10T08:32:25.263259Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kisetsu wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_Kisetsu_wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kisetsu wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/02_Kisetsu_wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/03_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく - Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/04_季節は次々死んでいく_-_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "季節は次々死んでいく - Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/05_季節は次々死んでいく_-_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kisetsu wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/06_Kisetsu_wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kisetsu wa Tsugitsugi Shindeiku",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/07_Kisetsu_wa_Tsugitsugi_Shindeiku_VA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kisetsu Wa Tsugitsugi Shindeiku Acoustic Version",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/08_Kisetsu_Wa_Tsugitsugi_Shindeiku_Acoustic_Version_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kisetsu Wa Tsugitsugi Shindeiku (Cover)",
+      "artist": "Harusaruhi",
+      "has_synced": true,
+      "path": "select/09_Kisetsu_Wa_Tsugitsugi_Shindeiku_(Cover)_Harusaruhi.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/10_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kisetsu wa Tsugitsugi Shindeiku (Acoustic Ver.)",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/11_Kisetsu_wa_Tsugitsugi_Shindeiku_(Acoustic_Ver.)_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kisetsu Wa Tsugitsugi Shindeiku",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_Kisetsu_Wa_Tsugitsugi_Shindeiku_amazarashi.txt"
+    }
+  ]
+}
